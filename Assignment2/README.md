@@ -42,17 +42,17 @@ Assignment2/
 
 ### 📈 Epoch vs Accuracy (R²)  
 <p align="center">
-  <img src="images/Epoch_vs_Accuracy.png" alt="Epoch vs Accuracy" width="600"/>
+  <img src="Epoch_vs_Accuracy.png" alt="Epoch vs Accuracy" width="600"/>
 </p>  
 
 ### 📉 Epoch vs Loss (MSE)  
 <p align="center">
-  <img src="images/Epoch_vs_Loss.png" alt="Epoch vs Loss" width="600"/>
+  <img src="Epoch_vs_Loss.png" alt="Epoch vs Loss" width="600"/>
 </p>  
 
 ### 📊 Scatter Plot: Price vs Area with Regression Line  
 <p align="center">
-  <img src="images/Price_vs_Area.png" alt="Price vs Area Regression" width="600"/>
+  <img src="Price_vs_Area.png" alt="Price vs Area Regression" width="600"/>
 </p>  
 
 
