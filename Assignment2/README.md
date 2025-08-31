@@ -8,12 +8,14 @@ Additionally, the project simulates **epochs** by re-training the model multiple
 ## 📂 Project Structure
 
 Assignment2/
-│── Housing.csv
-│── housing_prediction.ipynb
-│── README.md 
-├── price_vs_area.png 
-├── epoch_vs_accuracy.png 
-└── epoch_vs_loss.png 
+│── Housing.csv                 # Dataset (input file)  
+│── housing_prediction.ipynb    # Jupyter notebook with code  
+│── README.md                   # Documentation  
+│  
+├── price_vs_area.png           # Scatter plot of Price vs Area with regression line  
+├── epoch_vs_accuracy.png       # Accuracy (R²) vs Epoch graph  
+└── epoch_vs_loss.png           # Loss (MSE) vs Epoch graph  
+
 
 ---
 
