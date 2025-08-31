@@ -17,34 +17,44 @@ Assignment2/
 
 ---
 
-## Features
+# ✨ Features
 
--  **Custom Dataset Handling**
-  - Loads housing dataset (`Housing.csv`)  
-  - Uses only two columns: **Area (sq.ft.)** and **Price**  
-  - Cleans data by removing missing values  
+## 🔹 Custom Dataset Handling
+- Loads housing dataset (`Housing.csv`)  
+- Uses only two columns: **Area (sq.ft.)** and **Price**  
+- Cleans data by removing missing values  
 
--  **Preprocessing**
-  - Extracts features (`area`) and target (`price`)  
-  - Standardizes feature values for stable gradient descent  
+## 🔹 Preprocessing
+- Extracts features (`area`) and target (`price`)  
+- Standardizes feature values for stable gradient descent  
 
--  **Linear Regression (From Scratch)**
-  - Implements **Batch Gradient Descent** without using scikit-learn  
-  - Learns slope (`w`) and intercept (`b`)  
-  - Converts parameters back to original scale (price per sq.ft.)  
+## 🔹 Linear Regression (From Scratch)
+- Implements **Batch Gradient Descent** without using scikit-learn  
+- Learns slope (`w`) and intercept (`b`)  
+- Converts parameters back to original scale (price per sq.ft.)  
 
--  **Model Evaluation**
-  - Tracks **Loss (MSE)** per epoch  
-  - Computes **Accuracy (R² score)** per epoch  
-  - Prints progress for each epoch  
+## 🔹 Model Evaluation
+- Tracks **Loss (MSE)** per epoch  
+- Computes **Accuracy (R² score)** per epoch  
+- Prints progress for each epoch  
 
--  **Visualizations**
-  - **Epoch vs Accuracy (R²)**
-     ![Epoch vs Accuracy](Epoch_vs_Accuracy.png) 
-  - **Epoch vs Loss (MSE)** graph
-     ![Epoch vs Loss](Epoch_vs_Loss.png)
-  - **Scatter plot of Price vs Area** with fitted regression line
-      ![Price vs Area Regression](Price_vs_Area.png)
+## 🔹 Visualizations  
+
+### 📈 Epoch vs Accuracy (R²)  
+<p align="center">
+  <img src="images/Epoch_vs_Accuracy.png" alt="Epoch vs Accuracy" width="600"/>
+</p>  
+
+### 📉 Epoch vs Loss (MSE)  
+<p align="center">
+  <img src="images/Epoch_vs_Loss.png" alt="Epoch vs Loss" width="600"/>
+</p>  
+
+### 📊 Scatter Plot: Price vs Area with Regression Line  
+<p align="center">
+  <img src="images/Price_vs_Area.png" alt="Price vs Area Regression" width="600"/>
+</p>  
+
 
 
 
