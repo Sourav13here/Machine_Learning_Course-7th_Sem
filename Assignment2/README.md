@@ -8,8 +8,9 @@ Additionally, the project simulates **epochs** by re-training the model multiple
 ## 📂 Project Structure
 
 Assignment2/
+
 │── Housing.csv                 # Dataset (input file)  
-│── housing_prediction.ipynb    # Jupyter notebook with code  
+│── housing_prediction.ipynb    
 │── README.md                   # Documentation  
 │  
 ├── price_vs_area.png           # Scatter plot of Price vs Area with regression line  
