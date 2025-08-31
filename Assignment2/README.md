@@ -12,7 +12,6 @@ Assignment2/
 │── Housing.csv                 # Dataset (input file)  
 │── housing_prediction.ipynb    
 │── README.md                   # Documentation  
-│  
 ├── price_vs_area.png           # Scatter plot of Price vs Area with regression line  
 ├── epoch_vs_accuracy.png       # Accuracy (R²) vs Epoch graph  
 └── epoch_vs_loss.png           # Loss (MSE) vs Epoch graph  
