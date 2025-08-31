@@ -41,8 +41,10 @@ Assignment2/
 -  **Visualizations**
   - **Epoch vs Accuracy (R²)**
      ![Epoch vs Accuracy](Epoch_vs_Accuracy.png) 
-  - **Epoch vs Loss (MSE)** graph  
-  - **Scatter plot of Price vs Area** with fitted regression line  
+  - **Epoch vs Loss (MSE)** graph
+     ![Epoch vs Loss](Epoch_vs_Loss.png)
+  - **Scatter plot of Price vs Area** with fitted regression line
+      ![Price vs Area Regression](Price_vs_Area.png)
 
 
 
