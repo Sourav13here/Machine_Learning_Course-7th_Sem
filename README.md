@@ -8,10 +8,10 @@ Each assignment folder includes:
   
 
 ## Submitted By:
-Name: Sourav Sharma
-Branch: CSE
-Semester: 7th
-Roll No: 222010007049
+-Name: Sourav Sharma
+-Branch: CSE
+-Semester: 7th
+-Roll No: 222010007049
 
 
 ## Submitted To:
