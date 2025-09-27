@@ -7,8 +7,12 @@ Each assignment folder includes:
 - README file with detailed explanation
   
 
-## Completed Assignments
-###  Assignment 1 – Digit Recognition using TensorFlow
-- **Objective:** Build a neural network to classify handwritten digits from the MNIST dataset.
-- **Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib
-- **Accuracy Achieved:** ~97
+## Submitted By:
+Name: Sourav Sharma
+Branch: CSE
+Semester: 7th
+Roll No: 222010007049
+
+
+## Submitted To:
+Shashadhar Das (Assistant Professor, CSE)
