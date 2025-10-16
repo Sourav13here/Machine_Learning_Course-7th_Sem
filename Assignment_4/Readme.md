@@ -1,10 +1,10 @@
-# 🌸 Iris Flower Classification using K-Nearest Neighbors (KNN)
+# Iris Flower Classification using K-Nearest Neighbors (KNN)
 
 This project demonstrates how to build, train, and evaluate a **K-Nearest Neighbors (KNN)** classifier on the classic **Iris dataset** using **Python** and **scikit-learn**. It also includes model training, evaluation, and visualization of accuracy for different values of *k* (number of neighbors).
 
 ---
 
-## 🧠 Dataset
+## Dataset
 
 - **Name:** Iris Dataset *(from scikit-learn)*  
 - **Features:**  
@@ -20,7 +20,7 @@ This project demonstrates how to build, train, and evaluate a **K-Nearest Neighb
 
 ---
 
-## ⚙️ Dependencies
+## Dependencies
 
 - numpy  
 - matplotlib  
@@ -30,7 +30,7 @@ Install all dependencies using:
 
 pip install numpy matplotlib scikit-learn
 
-## 📊 Results
+## Results
 
 ### Model Performance Metrics
 
